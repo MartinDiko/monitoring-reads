@@ -9,13 +9,11 @@
 [System Performance Feature Guide](https://publib.boulder.ibm.com/tividd/td/TDS390/SH19-6818-08/en_US/HTML/DRLM9mst.htm)
 
 
-
 ### Online Material 
 
 [A Guide To Service Level Objectives, Part 1: SLOs & You](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/)
 
 [A Guide To Service Level Objectives, Part 2: It All Adds Up](https://www.circonus.com/2018/09/a-guide-to-service-level-objectives-part-2/)
-
 
 [A Guide to Service Level Objectives, Part 3: Quantifying Your SLOs](https://www.circonus.com/2018/09/a-guide-to-service-level-objectives-part-3-quantifying-your-slos/)
 [Managing reliability with SLOs and Error Budgets](https://medium.com/kudos-engineering/managing-reliability-with-slos-and-error-budgets-37346665abf6)
@@ -166,7 +164,6 @@
 [The Art and Science of the Service-Level Objective](https://www.circonus.com/whitepapers/art-and-science-of-the-service-level-objective.pdf)
 
 [Configuring Switch Latency Monitoring](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus6000/sw/qos/7x/b_6k_QoS_Config_7x/b_6k_QoS_Config_7x_chapter_010001.pdf)
-
 
 
 ### Tools, APIs and more
